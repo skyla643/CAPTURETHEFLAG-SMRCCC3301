@@ -1,0 +1,31 @@
+# CTF Challenge Response Solver
+
+## Introduction
+
+This repository contains code developed as part of a private program focused on cybersecurity and ethical hacking. The code serves as a solution to a Capture The Flag (CTF) challenge-and-response server.
+
+## About the Challenge
+
+The challenge protocol involves receiving a data offset value (DOV), decoding a challenge packet, constructing a response key, and capturing the flag by submitting the correct key to the server.
+
+## Purpose
+
+The purpose of sharing this code is to provide a resource for other students who are learning about hacking and participating in similar CTF challenges. By making this code available, I aim to contribute to the learning journey of aspiring cybersecurity enthusiasts.
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed.
+3. Install the required dependencies using `pip install -r requirements.txt`.
+4. Modify the code as necessary to adapt it to your own challenges or learning objectives.
+5. Run the code and interact with the provided challenge-and-response server.
+
+## Disclaimer
+
+While this code was developed as part of a private program, I am sharing it solely for educational purposes. Any unauthorized or malicious use of this code is strictly prohibited.
+
+## Feedback and Contributions
+
+Feedback and contributions are welcome! If you have suggestions for improvements or would like to contribute to the code, feel free to submit a pull request or open an issue.
+
+WITH LOVE - SMRCCC3301
