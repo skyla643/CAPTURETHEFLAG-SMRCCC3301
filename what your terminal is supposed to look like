@@ -1,0 +1,11 @@
+PS C:"YOUR SYSTEM DIRECTION" 
+[x] Opening connection to 172.232.27.9 on port 64392
+[x] Opening connection to 172.232.27.9 on port 64392: Trying 172.232.27.9
+[+] Opening connection to 172.232.27.9 on port 64392: Done
+Received 100 bytes.
+Data: b"[\x06\x007&\x18\xbcnpM\x16 \xa5\xc1w\x01\xc0)'C\xfe\x98M\xd2\xbe\xa1*\xec\xc2\xf0Ri\x19\x8c\x90\x14\x1e\x89\x0f\x82)\x028\x03\xabzJ_lUY$\xbc\xe0\xee\xba\x13#\xac\x05\xf3\xac&\x9a\x91\x82&f\xd1\x03\xab\xb3\xef,m\x9f\x08W4,\x18\xaaU\x89\x9f\x81\x10j.\x04\x9be\xb6\x7f%J\x968\x1eH"
+option_select: 6
+options: [374173806, 2009179424, 657047553, 1301872195, 715243218, 1391510252, 2425100649, 260644372, 939665794, 1249553155, 1498770527, 4007705636]
+b'flag_1f8e28c40a2'
+[*] Closed connection to 172.232.27.9 port 64392
+PS C:"YOUR SYSTEM DIRECTION"
