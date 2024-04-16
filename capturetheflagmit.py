@@ -54,3 +54,5 @@ if b'CTF{' in response:
     print(f'Flag found: {flag.decode("utf-8")}')
 else:
     print('Flag not found')
+
+# Learning Experience Addition: Check if option_select is within the range of options
