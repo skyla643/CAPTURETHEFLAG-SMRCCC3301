@@ -46,3 +46,11 @@ print(response)  # Print the response from the server
 
 # Close the connection
 conn.close()
+
+# Check if the response is the flag
+if b'CTF{' in response:
+    # Remove the first character of the flag to make it more challenging for the student to capture
+    flag = response[1:]
+    print(f'Flag found: {flag.decode("utf-8")}')
+else:
+    print('Flag not found')
