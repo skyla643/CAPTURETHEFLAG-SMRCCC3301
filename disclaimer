@@ -15,7 +15,7 @@ The purpose of sharing this code is to provide a resource for other students who
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Ensure you have Python installed.
+2. Ensure you have Python installed. new version 3.12!!
 3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Modify the code as necessary to adapt it to your own challenges or learning objectives.
 5. Run the code and interact with the provided challenge-and-response server.
